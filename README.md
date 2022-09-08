@@ -5,3 +5,4 @@ Templates for project documents
 
 ## Exploratory analysis template is to guide the EDA through different variables and considerations.
 ## A good start for projects
+Looking to build more
